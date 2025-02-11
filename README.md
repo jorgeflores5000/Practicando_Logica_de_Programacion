@@ -18,11 +18,10 @@ git clone https://github.com/jorgeflores5000/Practicando_Logica_de_Programacion.
 
 
 
-Tecnologías utilizadas
+##Tecnologías utilizadas
 
-HTML
+**HTML
 
-CSS
+**CSS
 
-JavaScript
-.
+**JavaScript
