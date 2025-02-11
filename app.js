@@ -52,5 +52,6 @@ function sortearAmigo(){
 }
  function limpiarCaja(){
     document.getElementById("amigo").value = "";
+    
 }
 
